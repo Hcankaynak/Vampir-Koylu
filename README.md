@@ -10,12 +10,22 @@ https://play.google.com/store/apps/details?id=com.tekmenbelediyesi.vampirkoylu
 
 # Ekran Görüntüleri
 
-- <p align="center">
+<p align="center">
   <img src="ScreenShots/1.jpeg" width="350" alt="accessibility text">
 </p>
--
--
--
+
+<p align="center">
+  <img src="ScreenShots/2.jpeg" width="350" alt="accessibility text">
+</p>
+
+<p align="center">
+  <img src="ScreenShots/3.jpeg" width="350" alt="accessibility text">
+</p>
+
+<p align="center">
+  <img src="ScreenShots/4.jpeg" width="350" alt="accessibility text">
+</p>
+
 
 
 # Nasıl Oynanır? 
