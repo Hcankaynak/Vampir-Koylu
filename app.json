@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "AwesomeProject",
-    "slug": "AwesomeProject",
-    "version": "1.0.1",
+    "name": "Vampir Köylü",
+    "slug": "VampirKoylu",
+    "version": "1.0.2",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/GameLogo.jpg",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/GameLogo.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
